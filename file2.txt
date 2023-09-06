@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Line1111
 Line3
 Line323wedf
@@ -6,3 +7,12 @@ Lasd
 fbdsb
 
 sadgadghf
+=======
+fasvsvasvsad
+vsa
+vsad
+vsasadv
+sad3vagas
+grea
+gvfa
+>>>>>>> dev
